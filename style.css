@@ -1,0 +1,49 @@
+body {
+  font-family: "Helvetica Neue", sans-sans-serif;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+h1{
+  text-align: center;
+  text-decoration: overline;
+  color: #3498DB;
+  margin-bottom: 50px;
+}
+
+h2 {
+  text-align: center;
+  background:#3498DB;
+  color: #FFFFFF
+}
+
+.blurb {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 50px;
+}
+
+.job-title {
+
+}
+
+.company {
+  color: blue;
+  font-weight:700;
+}
+
+.location {
+  color: gray;
+}
+
+.footer {
+  text-align: center;
+}
+
+.graybox{
+  color: gray;
+  background:gray;
+}
